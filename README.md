@@ -1,0 +1,2 @@
+# cf_amazon_ansible_provisioning
+CloudForms Amazon Ansible Automation Provisioning
