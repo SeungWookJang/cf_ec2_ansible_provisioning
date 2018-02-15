@@ -1,0 +1,8 @@
+metadata_version: 1
+description: CloudForms EC2 Ansible Provisioning
+author: "Ramrexx"
+company: Red Hat
+
+min_miq_version: "g"
+
+tags: ['cloudforms','manageiq', 'amazon', 'ansible', 'provisioning']
