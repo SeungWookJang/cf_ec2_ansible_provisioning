@@ -1,12 +1,12 @@
 ---
 galaxy_info:
   author: ramrexx
-  description: CloudForms_Essentials - vmware_basic_postprovision
-  company: 
+  description: ec2_postprovision
+  company:
   license: Apache
-  issue_tracker_url: 
+  issue_tracker_url:
   github_branch:
-  min_ansible_version: 2.3
+  min_ansible_version: 2.4
   platforms:
     name: EL
     versions:

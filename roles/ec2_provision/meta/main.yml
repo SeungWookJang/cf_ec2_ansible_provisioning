@@ -1,7 +1,6 @@
----
 galaxy_info:
   author: ramrexx
-  description: CloudForms_Essentials - vmware_basic_provision
+  description: ec2_basic_provision
   company:
   license: Apache
   issue_tracker_url:
@@ -13,5 +12,6 @@ galaxy_info:
       - 7
   categories:
     - cloudforms
-    - vmware
+    - amazon
+    - ec2
 dependencies: []

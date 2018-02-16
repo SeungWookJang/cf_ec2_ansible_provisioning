@@ -1,6 +1,6 @@
 galaxy_info:
   author: ramrexx
-  description: CloudForms_VMware_Essentials - vmware_runonce
+  description: ec2_runonce
   company:
   license: Apache
   issue_tracker_url:
@@ -13,5 +13,5 @@ galaxy_info:
   categories:
     - cloudforms
     - manageiq
-    - vmware
+    - amazon
 dependencies: []

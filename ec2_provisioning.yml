@@ -10,7 +10,7 @@
     - role: ec2_vmname
       when: generate_names
 
-    - role: ec2_basic_provision
+    - role: ec2_provision
 
     - role: ec2_postprovision
       when: ec2_created_vms is defined and manageiq is defined
